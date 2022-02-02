@@ -4,13 +4,13 @@ This script is created because blender didn't automatically read some attribute 
 So the data is stored in separate json file that can be applied later using the script
 
 ## Maya 
-![Maya Exporter](images\maya_ui.JPG)
+<img src="images\maya_ui.JPG" alt="Maya Exporter">
 
 ## Blender
-![Import Export Panel](images\blender_panel.JPG)
+<img src="images\blender_panel.JPG" alt="Blender Import Export Panel">
 
-## Output data
-![Output Data](images\output.JPG)
+## Output File
+<img src="images\output.JPG" alt="Output File">
 
 ## Currently support:
 - Camera
